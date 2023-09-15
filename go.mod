@@ -3,7 +3,7 @@ module github.com/go-bricks/bjaeger
 go 1.19
 
 require (
-	github.com/go-bricks/bricks v0.0.8
+	github.com/go-bricks/bricks v0.0.9
 	github.com/golang/mock v1.6.0
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/stretchr/testify v1.8.0
